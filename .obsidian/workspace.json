@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cast/string.go.md",
+                "file": "docs/cast/string.go.md",
                 "mode": "source",
                 "source": false
               },
@@ -194,10 +194,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d60c51c7a7b7b53b",
+  "active": "c8543fb8a3956a2f",
   "lastOpenFiles": [
+    "docs/drivers",
+    "Untitled",
+    "docs/cast/string.go.md",
+    "docs/Untitled.md",
+    "docs",
     "Test1.md",
-    "Cast/string.go.md",
-    "Cast"
+    "docs/cast"
   ]
 }
