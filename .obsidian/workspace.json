@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Test1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Test1"
             }
           }
         ],
@@ -182,6 +182,6 @@
   },
   "active": "1010c5fcf6de7ab7",
   "lastOpenFiles": [
-    "Test.md"
+    "Test1.md"
   ]
 }
